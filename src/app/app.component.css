@@ -1,0 +1,14 @@
+form{
+    
+    height: 350px;
+    width: 280px;
+    padding:15px;
+    border: solid 2px black;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 30px;
+    background-color: antiquewhite;
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}

@@ -1,0 +1,14 @@
+.botao{
+    display: flex;
+    justify-content: center;
+}
+
+
+#botao{
+    height: 30px;
+    width: 50%;
+    border-radius: 8px;
+    border: none;
+    background-color:rgb(7, 165, 112);
+    color: white;
+}

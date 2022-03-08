@@ -1,0 +1,10 @@
+#name{
+    height: 25px;
+    width: 100%;
+    border: 2px solid black;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
